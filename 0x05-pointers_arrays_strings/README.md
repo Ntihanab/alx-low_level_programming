@@ -1,1 +1,1 @@
-yup
+This is all about the pointers array strings
